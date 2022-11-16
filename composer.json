@@ -11,10 +11,14 @@
         "symfony/dotenv": "6.1.*",
         "symfony/flex": "^2",
         "symfony/framework-bundle": "6.1.*",
+        "symfony/http-client": "6.1.*",
         "symfony/runtime": "6.1.*",
         "symfony/yaml": "6.1.*"
     },
     "require-dev": {
+        "symfony/maker-bundle": "^1.48",
+        "symfony/stopwatch": "6.1.*",
+        "symfony/web-profiler-bundle": "6.1.*"
     },
     "config": {
         "allow-plugins": {
